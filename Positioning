@@ -1,0 +1,72 @@
+<html>
+    <head>
+        <style>
+            .diva{border: 5px solid red;
+                 color: blue;
+                 background-color: coral;
+                 position :absolute
+                }
+
+            .div{border: 5px dotted rgb(0, 255, 179);
+                 color: rgb(255, 0, 85);
+                 background-color: rgb(80, 150, 255);
+                }
+
+            .divr{border: 5px dashed rgb(234, 0, 255);
+                 color: rgb(255, 0, 76);
+                 background-color: coral;
+                 position :relative
+                }
+
+            .divf{border: 5px dashed rgb(0, 195, 255);
+                 color: rgb(9, 255, 0);
+                 background-color: rgb(255, 144, 80);
+                 position :fixed
+                }
+
+            .divs{position :sticky ;
+                  top: 1px;
+                  border: 5px solid rgb(0, 255, 21);
+                  color: rgb(0, 217, 255);
+                  background-color: rgb(80, 255, 147);
+                 }
+
+            h1{color: red;}
+            
+        </style>
+    </head>
+    <body>
+        <h1>Coding</h1>
+        <div class="div">Coding can be defined as writing instructions for computers and other hardware. The computer is then able to read the
+        instructions (called “programs”) and do what you have asked it to do.</div><br>
+
+        <div class="diva">In the previous section, we saw that the terms “coding” and “programming” can be used interchangeably. This is because
+        both involve writing programs.
+        
+        The two terms, however, differ in terms of their scope. In addition to writing code, a programmer is also involved in
+        high-level problem-solving.
+        
+        For example, a programmer might advise on the technologies that should be used in a project. This is because they have
+        things like security and scalability in mind.
+        
+        A coder’s responsibility, on the other hand, will involve writing code that results in a certain user story being
+        fulfilled.</div>
+        
+        <div class="divs">It’s quite difficult to come across a company, organization, or industry where coding isn’t used.
+        
+        All the big tech companies—Meta, Amazon, Netflix, Google, and Apple (known as MANGA, MAANG, or MAGNA)—use code.</div><br>
+
+        <div class="divr">As we have seen in the previous section, coding is really quite significant in almost every part of our daily lives and
+        how we go about our business.
+        
+        But in what other ways is coding important to learn?</div><br>
+        
+        <div class="divf">Technology has permeated every aspect of our lives. You can order your favorite meal via a mobile app, transfer money
+        from the comfort of your home, and switch your lights on and off from your phone—even when you’re not home.
+        
+        At the core of all this technological advancement is coding. Teams of developers, designers, coders, and programmers
+        work together to build this software that makes our lives so convenient.</div><br>
+
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    </body>
+</html>
